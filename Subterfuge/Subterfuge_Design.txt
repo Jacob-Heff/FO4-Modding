@@ -1,0 +1,37 @@
+=== SUBTERFUGE: DESIGN DOC ===
+
+1. FACTION IDENTITY & LORE
+- Faction Name: Chinese Resistance
+- Origin: Hybrid of Pre-war ghouls and Resistance Fighters and Sleeper descendants
+- Headquarters Location: Collection of Bunkers around the wasteland
+- Core Strategy: Grassroots intelligence campaign to dismantle Capitalist ideas and create sentiment for communism
+- Leader Name & Title: To Be Decided
+- Faction Prefix (for Creation Kit Editor IDs): STF_CHINESE
+
+2. KEY NPCs
+- Leader: STF_NPC_[Name]
+- Quartermaster/Vendor: STF_NPC_[Name]
+- Field Handler: STF_NPC_[Name]
+
+3. QUEST ARC
+- STF_MQ01: Banned in Boston
+While traveling through the Wasteland, the SS can either find traces of Communist Propoganda that alleges secret meetings at the Boston Public Library, or by investigating the library itself, they can instead find a scavenger with a unique book. By placing the book into a nearby bookshelf, it opens a false wall, revealing the original headquarters, now abandoned other than ghouls, of the Chinese Resistance, a chapter of the Chinese Intelligence that was formed by persecuted Chinese citizens of Boston.
+
+- STF_MQ02: Coordinates of the Dawn
+Using the archives collected by the Resistance, the SS can investigate certain locations of coordinates of mostly long gone bunkers, filled with ghouls and skeletons. Along the way, the SS will see what the Chinese resistance was, as well as the intelligence and meet survivors of both the persecution as well as the Chinese state's propaganda machine. Following this mission, until the completion of the Main Story Quest, Reunions, the SS will be placed in charge of secretly planting communist propaganda around the Wasteland (as well as founding "communist" settlements? -working idea, not committed).
+
+- STF_MQ03: The Red Harvest
+Institute (The Nuclear Option|The Nuclear Family): 
+The SS is tasked simply with completing the questline with their chosen faction.
+After conclusion of the Main Story, the following additional quests will be added, based on SS decisions before The Nuclear Option:
+Railroad (Crossed Wires|Dead Line)- If Tradecraft has been completed, the SS can inform the Chinese Resistance Intelligence Office who will task the SS with taking it back over. Doing so will make the SS an Enemy of the Railroad. | If Tradecraft hasn't been completed, the SS will simply be tasked with clearing the location of the Synths, and placing a bug on one of the terminals.
+Brotherhood of Steel (Paper Tigers): If Shadow of Steel is completed, the CRIO will task the SS with planting a bug on one of the Terminals aboard the Prydwin. After returning to the Chinese Resistance, the ship's reactors will be remotely overpowered, resulting in the Prydwin being destroyed. Completion of this quest results in the SS becoming an enemy of the Brotherhood of Steel.
+Institute (Synthesis): As the Director of the Institute, you call a board meeting, outsing the current hardline scientists and replacing them with Chinese Resistance scientists, creating a partnership.
+
+- STF_MQ04: Red Star Over Boston
+After the conclusion of all MQ03 quests:
+
+If Sythesis is completed: In Sheep's Clothing can be staged by the Chinese Resistance, allowing McDonough to be outsed from Diamond City.
+
+Otherwise, upon completion of In Sheep's Clothing, the SS can lead a campaign to turn Diamond City communist. This is done simply by having high standing with Diamond City (determined by side quests and main quest actions). If you have high enough standing, you can talk with Piper and arrange to hold a speech in Diamond City on behalf of either the Minutemen or the Institute. Doing so, you can encourage the citizens of Diamond City to embrace the ideals of communism and reveal your sympathies to the Chinese Resistance. 
+Completion of this quest gives you a permanent discount with all traders and access to unique settlement objects as well as the ability to share resources between settlements without the need for Supply Lines through the creation of a "Red Star Quartermaster Box" in a settlement.
